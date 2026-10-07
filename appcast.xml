@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ScreenshotShelf</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 07 Oct 2026 17:37:53 -0400</pubDate>
+            <link>https://github.com/luidots/ScreenshotShelf-releases</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/luidots/ScreenshotShelf-releases/releases/download/v1.0.0/ScreenshotShelf-arm64.dmg" length="1911504" type="application/octet-stream" sparkle:edSignature="NfTrbmnCpbzEyZupHIwgDeN0i4K/fhQdJOxCQwL4C+s9rXhxypnO3Ar5UuhjTBTHQF501eKGvNUCEUSM/9xpCw=="/>
+        </item>
+    </channel>
+</rss>
